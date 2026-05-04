@@ -1,4 +1,5 @@
 AI-Powered HR Analytics System 🚀
+
 Project Overview
 This project aims to develop an intelligent system for employee analytics and decision support. By analyzing the IBM HR Analytics dataset, we identify key factors contributing to employee attrition and provide data-driven strategies to improve retention and performance. 
 Objectives
